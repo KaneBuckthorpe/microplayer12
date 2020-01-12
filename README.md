@@ -1,12 +1,13 @@
 # microplayer12 - Source Code
 
-By the same developer who brought you Link:MicroPlayer on iOS8-10.
+By the same developer who brought you [MicroPlayer](http://cydia.saurik.com/package/com.kanesbetas.microplayer/) on iOS8-10.
 
 MicroPlayer is a sleek, gesture based music player that can be accessed easily, anywhere.
 
 The same tweak...on steroids.
 
-Link: Watch the demo!
+[Watch the demo](https://m.youtube.com/watch?v=T63ww2Ie__c)
+Get it [here](https://repo.packix.com/package/com.kaneb.microplayer12/)
 Rewritten for efficiency.
 Better HomeScreen pinning.
 New options.
