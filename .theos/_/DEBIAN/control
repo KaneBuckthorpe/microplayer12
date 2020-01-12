@@ -1,0 +1,10 @@
+Package: com.kaneb.microplayer12
+Name: MicroPlayer12
+Depends: mobilesubstrate, com.kaneb.kbpreferences, com.kaneb.kbapplist
+Architecture: iphoneos-arm
+Description: SystemWide + HomeScreen music controls!
+Maintainer: Kane Buckthorpe
+Author: Kane Buckthorpe
+Section: Tweaks
+Version: 0.0.9-6+debug
+Installed-Size: 1380

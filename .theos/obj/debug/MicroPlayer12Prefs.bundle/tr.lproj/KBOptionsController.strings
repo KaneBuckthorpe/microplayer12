@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0 is the widget page!!</key>
+	<string>0 tarihinde eklendi sayfa !!</string>
+	<key>Add to the Homescreen:</key>
+	<string>Ana Ekrana Ekle:</string>
+	<key>Appearance</key>
+	<string>Görünüm</string>
+	<key>Background opacity:</key>
+	<string>Arka Plan Opaklığı</string>
+	<key>Default music app</key>
+	<string>Varsayılan Müzik Uygulaması</string>
+	<key>Enable force touch:</key>
+	<string>3D Touch’i Etkinleştir</string>
+	<key>Extras</key>
+	<string>Ekstralar</string>
+	<key>Grabber Size:</key>
+	<string>Tutamaç Boyutu:</string>
+	<key>Homescreen</key>
+	<string>Ana Ekran</string>
+	<key>Options</key>
+	<string>Seçenekler</string>
+	<key>Page:</key>
+	<string>Sayfa:</string>
+	<key>Use dark default image:</key>
+	<string>Koyu Varsayılan Görüntü Kullan:</string>
+    <key>Use dark default image:</key>
+    <string>Koyu Varsayılan Görüntü Kullan:</string>
+</dict>
+</plist>

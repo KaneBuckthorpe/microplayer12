@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Activator Events</key>
+	<string>Activatör Hareketleri</string>
+	<key>Hide</key>
+	<string>Gizle</string>
+	<key>Music ended</key>
+	<string>Müzik Sonlandı</string>
+	<key>Music started</key>
+	<string>Müzik Çalınıyor</string>
+	<key>Show grabber</key>
+	<string>Tutaç’ı Göster</string>
+	<key>Show player</key>
+	<string>Oynatıcıyı Göster</string>
+	<key>Show/Hide</key>
+	<string>Göster/Gizle</string>
+</dict>
+</plist>

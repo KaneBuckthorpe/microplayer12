@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Activator Listeners</string>
+		</dict>
+		<dict>
+			<key>activatorListener</key>
+			<string>com.microplayer12.show</string>
+			<key>bundle</key>
+			<string>LibActivator</string>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>icon</key>
+			<string>icon.png</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Show player</string>
+		</dict>
+		<dict>
+			<key>activatorListener</key>
+			<string>com.microplayer12.show-grabber</string>
+			<key>bundle</key>
+			<string>LibActivator</string>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>icon</key>
+			<string>icon.png</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Show grabber</string>
+		</dict>
+		<dict>
+			<key>activatorListener</key>
+			<string>com.microplayer12.hide</string>
+			<key>bundle</key>
+			<string>LibActivator</string>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>icon</key>
+			<string>icon.png</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Hide</string>
+		</dict>
+		<dict>
+			<key>activatorListener</key>
+			<string>com.microplayer12.toggleshowing</string>
+			<key>bundle</key>
+			<string>LibActivator</string>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>icon</key>
+			<string>icon.png</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Show/Hide</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Activator Events</string>
+		</dict>
+		<dict>
+			<key>activatorEvent</key>
+			<string>com.kaneb.musicstarted</string>
+			<key>bundle</key>
+			<string>LibActivator</string>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Music started</string>
+		</dict>
+		<dict>
+			<key>activatorEvent</key>
+			<string>com.kaneb.musicended</string>
+			<key>bundle</key>
+			<string>LibActivator</string>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Music ended</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Activator</string>
+</dict>
+</plist>
