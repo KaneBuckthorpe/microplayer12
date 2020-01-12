@@ -1,0 +1,2 @@
+@interface MPBaseView :UIView
+@end

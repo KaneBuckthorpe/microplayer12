@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Double tap - Toggle smaller grabber view.</key>
+	<string>İki kez dokunma - Oynatıcıyı Ufalt</string>
+	<key>Drag</key>
+	<string>Sürükle ve bırak</string>
+	<key>Force touched - Toggle music app.</key>
+	<string>Sert bas - Uygulamayı aç</string>
+	<key>Holding the full sized player for a second and then dragging allows you to move it around.</key>
+	<string>Konumunu değiştirmek için oynatıcıyı basılı tutun</string>
+	<key>Instructions</key>
+	<string>Talimatlar</string>
+	<key>Long hold - Toggle music app.</key>
+	<string>Uzun süre bekletme - Müzik uygulamasını aç.</string>
+	<key>Pinch</key>
+	<string>Sıkıştırma</string>
+	<key>Pinch two fingers in or out on the full sized player to adjust the size.</key>
+	<string>Yeniden boyutlandırmak için oynatıcıyı iki parmağınızla sıkıştırın.</string>
+	<key>Single tap - Play/Pause.</key>
+	<string>Tek Basma - Oynat / Duraklat</string>
+	<key>Swipe along bottom - Adjust volume.</key>
+	<string>Altta kaydır - Sesi ayarlayın.</string>
+	<key>Swipe down (top to bottom) - Picture view.</key>
+	<string>Yukarıdan aşağıya doğru kaydır - Albüm Kapağını göster</string>
+	<key>Swipe left (right to left) - Next song.</key>
+	<string>Sola kaydırın (sağdan sola) - Sonraki şarkı.</string>
+	<key>Swipe right (left to right) - Previous song.</key>
+	<string>Soldan sağa doğru kaydırın - Önceki parça</string>
+	<key>Swipe up (bottom to top) - Detailed view.</key>
+	<string>Yukarı Kaydırın - Ayrıntıları Göster</string>
+	<key>Swipes (Large views)</key>
+	<string>Vurma (Büyük görünümler)</string>
+	<key>Tapped</key>
+	<string>Basma</string>
+	<key>The small grabber view can be dragged around without needing to hold for a second.</key>
+	<string>Küçük tutaç görünümü etrafında hareket ettirilebilir bir saniye beklemeye gerek kalmadan.</string>
+</dict>
+</plist>

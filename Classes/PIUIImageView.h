@@ -1,0 +1,10 @@
+@interface PIUIImageView:UIImageView
+@end
+
+
+
+
+
+
+
+
